@@ -1,4 +1,5 @@
 # Use Google base image for NodeJS
+# Dummy comment for triggering build
 FROM launcher.gcr.io/google/nodejs
 
 # Copy application code.
